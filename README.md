@@ -74,4 +74,4 @@ Congrats!
 
 Check the server logs. You should see a response from Change indicating that your test donation was successful.
 
-Visit your [Change dashboard](https://api.getchange.io/insights) and click "View test data" to see your donation.
+Visit your [Change dashboard](https://api.getchange.io/developers) and click "View test data" to see your donation.
